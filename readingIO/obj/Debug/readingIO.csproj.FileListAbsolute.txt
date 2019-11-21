@@ -1,0 +1,6 @@
+C:\Users\mac\source\repos\readingIO\readingIO\bin\Debug\readingIO.exe.config
+C:\Users\mac\source\repos\readingIO\readingIO\bin\Debug\readingIO.exe
+C:\Users\mac\source\repos\readingIO\readingIO\bin\Debug\readingIO.pdb
+C:\Users\mac\source\repos\readingIO\readingIO\obj\Debug\readingIO.csprojAssemblyReference.cache
+C:\Users\mac\source\repos\readingIO\readingIO\obj\Debug\readingIO.exe
+C:\Users\mac\source\repos\readingIO\readingIO\obj\Debug\readingIO.pdb
